@@ -1,7 +1,7 @@
 # Création d'une extension Chrome
 
 <p align="center">
-  <img src="./icons/icon16.PNG" alt="extension icon"/>
+  <img src="./icons/icon16.PNG" alt="extension icon" width="auto" height="auto"/>
 </p>
 
 Une extension chrome avec différents rappels  àn utiliser en formation ou au travail:
@@ -9,6 +9,7 @@ Une extension chrome avec différents rappels  àn utiliser en formation ou au t
   - phrases aléatoires de Chuck Norris sur le theme du developpement web.
   - phrases aléatoires pour nous rappeller de prendre des pauses, de demander de l'aide, de s'étirer, de boire de l'eau ...
 
+
 <p align="center">
-  <img src="./img/TC.png" alt="extension menu" width-max="50%"/>
+  <img src="./img/TC.png" alt="extension menu" width="auto" height="auto"/>
 </p>
