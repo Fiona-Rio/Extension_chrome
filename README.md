@@ -10,6 +10,11 @@ Une extension chrome avec différents rappels  àn utiliser en formation ou au t
   - phrases aléatoires pour nous rappeller de prendre des pauses, de demander de l'aide, de s'étirer, de boire de l'eau ...
 
 
+Objectifs : 
+  - Comprendre comment fonctionne une extension avec son manifest
+  - Utilisation de Sass pour le style.
+  - Utilisation des fonctionnalités chrome pour créer des notifications.
+
 <p align="center">
   <img src="./img/TC.png" alt="extension menu" width="auto" height="auto"/>
 </p>
