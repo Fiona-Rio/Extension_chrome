@@ -1,7 +1,7 @@
 # Création d'une extension Chrome
 
 <p align="center">
-  <img src="./icons/icon16.PNG" alt="extension icon" width="500px" height="500px"/>
+  <img src="./icons/icon16.PNG" alt="extension icon"/>
 </p>
 
 Une extension chrome avec différents rappels  àn utiliser en formation ou au travail:
@@ -10,5 +10,5 @@ Une extension chrome avec différents rappels  àn utiliser en formation ou au t
   - phrases aléatoires pour nous rappeller de prendre des pauses, de demander de l'aide, de s'étirer, de boire de l'eau ...
 
 <p align="center">
-  <img src="./img/TC.PNG" alt="extension menu" width="500px" height="500px"/>
+  <img src="./img/TC.png" alt="extension menu"/>
 </p>
