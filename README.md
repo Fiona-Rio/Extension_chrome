@@ -1,7 +1,7 @@
 # Création d'une extension Chrome
 
 <p align="center">
-  <img src="./icons/icon16.PNG" alt="extension icon" width="auto" height="auto"/>
+  <img src="./icons/icon16.PNG" alt="extension icon" max-width="100px" height="auto"/>
 </p>
 
 Une extension chrome avec différents rappels  àn utiliser en formation ou au travail:
