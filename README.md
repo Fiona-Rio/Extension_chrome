@@ -4,7 +4,9 @@
   <img src="./icons/icon16.PNG" alt="extension icon" width="400px" height="auto"/>
 </p>
 
-Une extension chrome avec différents rappels  à utiliser en formation ou au travail:
+Cette extension a été réalisé en groupe de trois personnes sur 7 jours pendant ma formation de developpement web.
+
+Une extension chrome avec différents rappels  à utiliser en formation ou au travail :
   - programmer des rappels personnalisés et programmables selon l'heure.
   - phrases aléatoires de Chuck Norris sur le theme du developpement web.
   - phrases aléatoires pour nous rappeller de prendre des pauses, de demander de l'aide, de s'étirer, de boire de l'eau ...
