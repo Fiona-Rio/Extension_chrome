@@ -5,6 +5,7 @@
 </p>
 
 Cette extension a été réalisé en groupe de trois personnes sur 7 jours pendant ma formation de developpement web.
+(j'ai réalisé le logo si dessus dans la charte graphique des Totally Spies ainsi que le front de notre extension ci-dessous)
 
 Une extension chrome avec différents rappels  à utiliser en formation ou au travail :
   - programmer des rappels personnalisés et programmables selon l'heure.
