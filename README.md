@@ -1,7 +1,7 @@
 # Création d'une extension Chrome
 
 <p align="center">
-  <img src="./icons/icon16.PNG" alt="extension icon" width="100px" height="auto"/>
+  <img src="./icons/icon16.PNG" alt="extension icon" width="300px" height="auto"/>
 </p>
 
 Une extension chrome avec différents rappels  à utiliser en formation ou au travail:
@@ -16,5 +16,5 @@ Objectifs :
   - Utilisation des fonctionnalités chrome pour créer des notifications.
 
 <p align="center">
-  <img src="./img/TC.png" alt="extension menu" width="100px" height="auto"/>
+  <img src="./img/TC.png" alt="extension menu" width="300px" height="auto"/>
 </p>
